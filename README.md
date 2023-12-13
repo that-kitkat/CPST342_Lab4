@@ -49,3 +49,8 @@ Make sure your branch is clean prior to pushing up changes.  Make sure the chang
 [FreeCodeCamp.com Heroku Hosting tutorial](https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe/#:~:text=Open%20the%20Settings%20tab%20and,Deploy%20Branch%20at%20the%20bottom.&text=And%20that's%20it!)
 
 [How to deploy Github Repo to Heroku](https://medium.com/featurepreneur/how-to-connect-github-to-heroku-be6ff27419d3)
+
+Name: Caitlin Cabanas
+Date complete: 12/12/23
+URL: https://dry-fjord-15798-355da7e87a01.herokuapp.com/
+Class: CPST 342
